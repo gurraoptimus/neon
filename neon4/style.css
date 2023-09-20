@@ -35,8 +35,8 @@ a:hover{
     -webkit-box-reflect:below 1px linear-gradient(transparent,#0005);
 }
 a:first-child{
-    filter:hue-rotate(#FDA9DC);
+    filter:hue-rotate(FDA9DC);
 }
 a:last-child{
-    filter: hue-rotate();
+    filter: hue-rotate(FDA9DC);
 }
