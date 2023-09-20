@@ -1,5 +1,8 @@
-body
+*
 {
     box-sizing: inherit;
     transition: all 0.6s ease;
+}
+html, body{
+    min-height: ;
 }
