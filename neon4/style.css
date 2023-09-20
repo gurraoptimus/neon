@@ -34,3 +34,9 @@ a:hover{
                 0 0 200px #FDA9DC;
     -webkit-box-reflect:below 1px linear-gradient(transparent,#0005);
 }
+a:first-child{
+    filter:hue-rotate(225deg);
+}
+a:last-child{
+    
+}
