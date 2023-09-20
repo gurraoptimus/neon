@@ -6,4 +6,11 @@
 html, body{
     min-height: 100%;
     width: 100%;
+    font-family: Poppins;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    background-color: #111;
 }
