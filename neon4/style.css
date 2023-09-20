@@ -35,12 +35,15 @@ a:hover{
     -webkit-box-reflect:below 1px linear-gradient(transparent,#0005);
 }
 a:first-child{
-    filter:hue-rotate(FDA9DC);
+    filter:hue-rotate(225deg);
 }
 a:last-child{
-    filter: hue-rotate(FDA9DC);
+    filter: hue-rotate(90deg);
 }
 a span{
     position: absolute;
     display: block;
+}
+a span:nth-child(1){
+    
 }
