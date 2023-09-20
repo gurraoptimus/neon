@@ -28,5 +28,11 @@ html, body{
     box-shadow: 0 0 50px #FDA9DC,0 0 21px #FDA9DC;
 }
 .button-fill{
-    
+    background: #FDA9DC;
+    color: #000;
+}
+.button-fill:hover{
+    background: #000;
+    color: #FDA9DC;
+    box-shadow: 0 0 21px 0 #FDA9DC inset, 0 0 50px 0 #FDA9DC;
 }
