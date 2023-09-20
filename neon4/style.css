@@ -38,5 +38,5 @@ a:first-child{
     filter:hue-rotate(#FDA9DC);
 }
 a:last-child{
-    
+    filter: hue-rotate();
 }
