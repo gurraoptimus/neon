@@ -4,5 +4,6 @@
     transition: all 0.6s ease;
 }
 html, body{
-    min-height: ;
+    min-height: 100%;
+    width: 100%;
 }
