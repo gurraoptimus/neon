@@ -14,3 +14,10 @@ html, body{
     text-transform: uppercase;
     background-color: #111;
 }
+.button{
+    color: #FDA9DC;
+    font-size: 21px;
+    border: 3px solid #FDA9DC;
+    border-radius: 100px;
+    
+}
