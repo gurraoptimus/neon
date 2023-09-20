@@ -40,3 +40,7 @@ a:first-child{
 a:last-child{
     filter: hue-rotate(FDA9DC);
 }
+a span{
+    position: absolute;
+    display: block;
+}
