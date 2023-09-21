@@ -67,4 +67,13 @@ width: 1px;
 height: 100%;
 background: linear-gradient(180deg, transparent, #FDA9DC);
 animation: animate2 1s infinite;
+animation-delay: .25s;
+}
+@keyframes animate2{
+    0% {
+        top: -100%;
+    }
+    100%{
+        top: 100%;
+    }
 }
