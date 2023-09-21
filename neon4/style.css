@@ -49,5 +49,9 @@ top: 0;
 left: 0;
 width: 100%;
 height: 1px;
-background: linear-gradient();
+background: linear-gradient(90deg, transparent, #FDA9DC);
+animation: animate1 1s infinite;
+}
+@keyframes animate1{
+    
 }
