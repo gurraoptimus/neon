@@ -7,6 +7,7 @@ html,body{
     display: grid;
     height: 100%;
     place-items: center;
+    background: black;
 }
 .center{
     display: flex;
@@ -15,5 +16,5 @@ html,body{
     justify-content: center;
 }
 .outer{
-    margin: 0;
+    margin: 0 50px;
 }
