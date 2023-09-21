@@ -43,6 +43,7 @@ a:last-child{
 a span{
     position: absolute;
     display: block;
+    margin: 8px;
 }
 a span:nth-child(1){
 top: 0;
