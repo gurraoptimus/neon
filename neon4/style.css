@@ -7,7 +7,7 @@
 }
 .wrapper{
     display: flex;
-    justify-self: center;
+    justify-content: center;
     align-items: center;
     min-height: 100vh;
     background-color: #000;
@@ -92,5 +92,22 @@ a span:nth-child(3){
     }
     100%{
         right: 100%;
+    }
+}
+a span:nth-child(4){
+    bottom: -100%;
+    left: 0%;
+    width: 1px;
+    height: 100%;
+    background: linear-gradient(360deg, transparent #FDA9DC);
+    animation: animate4 1s infinite;
+    animation-delay: .75s;
+}
+@keyframes animate4{
+    0% {
+        bottom: -100%;
+    }
+    100%{
+        bottom: 100%;
     }
 }
