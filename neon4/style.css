@@ -60,6 +60,6 @@ animation: animate1 1s infinite;
         left: 100%;
     }
 }
-a span {
+a span:nth-child(2) {
 
 }
