@@ -53,5 +53,10 @@ background: linear-gradient(90deg, transparent, #FDA9DC);
 animation: animate1 1s infinite;
 }
 @keyframes animate1{
-    
+    0% {
+        left: -100%;
+    }
+    100%{
+        left: 100%;
+    }
 }
