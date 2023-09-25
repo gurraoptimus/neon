@@ -29,7 +29,9 @@ html,body{
     width: 200px;
     border-radius: 50%;
 }
-.outer .button, .outer span{
+.outer button, .outer span{
     position: absolute;
     top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
 }
