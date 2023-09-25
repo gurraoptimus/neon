@@ -50,5 +50,9 @@ html,body{
     height: 60px;
     width: 210px;
     border-radius: 50px;
-
+}
+.circle button{
+    height: 60px;
+    width: 210px;
+    border-radius: 50px;
 }
