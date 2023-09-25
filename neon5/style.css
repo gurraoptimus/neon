@@ -30,5 +30,6 @@ html,body{
     border-radius: 50%;
 }
 .outer .button, .outer span{
-
+    position: absolute;
+    top: 50%;
 }
