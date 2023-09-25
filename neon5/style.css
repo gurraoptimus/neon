@@ -61,3 +61,9 @@ html,body{
     width: 100%;
     background: inherit;
 }
+.button span{
+    border-radius: 50%;
+}
+.circle span{
+    border-radius: 50%;
+}
